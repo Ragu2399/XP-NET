@@ -4,4 +4,5 @@ An Attention Segmentation Network by Dual Teacher Hierarchical Knowledge distill
 The model was trained for ENDOCV2022 challenge.
 
 Pretrained weights 
-[https://drive.google.com/drive/folders/1c7w_DYhcIjBzoHqHVTdbNTa2ObvXCBUf?usp=sharing](url)
+
+https://drive.google.com/drive/folders/1c7w_DYhcIjBzoHqHVTdbNTa2ObvXCBUf?usp=sharing
