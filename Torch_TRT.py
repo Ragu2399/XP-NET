@@ -490,7 +490,7 @@ def main(image):
 #     cache1=cache.serialize()
 #     print(cache1)
 #     serialized_engine = builder.build_serialized_network(network, config)
-#     with open("SRHW_engine_creation-FP32.engine", "wb") as f:
+#     with open("XPNET-FP32.engine", "wb") as f:
 #         f.write(serialized_engine)
     
     
